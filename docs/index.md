@@ -1,37 +1,7 @@
-## Welcome to GitHub Pages
+<!--Currency Converter widget by FreeCurrencyRates.com -->
 
-You can use the [editor on GitHub](https://github.com/abdullah4one/musthavethis/edit/main/docs/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/abdullah4one/musthavethis/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+<div id='gcw_mainFVwtnL2KG' class='gcw_mainFVwtnL2KG'></div>
+<a id='gcw_siteFVwtnL2KG' href='https://freecurrencyrates.com/en/'>FreeCurrencyRates.com</a>
+<script>function reloadFVwtnL2KG(){ var sc = document.getElementById('scFVwtnL2KG');if (sc) sc.parentNode.removeChild(sc);sc = document.createElement('script');sc.type = 'text/javascript';sc.charset = 'UTF-8';sc.async = true;sc.id='scFVwtnL2KG';sc.src = 'https://freecurrencyrates.com/en/widget-vertical?iso=USD-EUR-INR-CAD-AED&df=2&p=FVwtnL2KG&v=its&source=fcr&width=245&width_title=0&firstrowvalue=1&thm=dddddd,eeeeee,E78F08,F6A828,FFFFFF,cccccc,ffffff,1C94C4,000000&title=Currency%20Converter&tzo=-330';var div = document.getElementById('gcw_mainFVwtnL2KG');div.parentNode.insertBefore(sc, div);} reloadFVwtnL2KG(); </script>
+<!-- put custom styles here: .gcw_mainFVwtnL2KG{}, .gcw_headerFVwtnL2KG{}, .gcw_ratesFVwtnL2KG{}, .gcw_sourceFVwtnL2KG{} -->
+<!--End of Currency Converter widget by FreeCurrencyRates.com -->
